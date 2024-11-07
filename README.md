@@ -44,12 +44,6 @@ My professional goals reflect my dedication to contributing meaningfully to the 
 - **Machine Learning Specialization** on Coursera (in progress): Gaining expertise in foundational and advanced machine learning techniques.
 - **Data Science and Programming Certifications**: Completed multiple certifications to strengthen my technical foundation.
 - **Participation in Urban Tech Hackathon**: Actively engaging in my first hackathon to gain experience in collaborative problem-solving.
-
-## 📫 Connect with Me
-I’m always open to new opportunities, collaborations, and discussions in the fields of AI, machine learning, and data science. Feel free to reach out via:
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **Email**: [Your Email Address]
-
 ---
 
 Thank you for visiting my GitHub profile! I’m excited to connect with other professionals and contribute to impactful projects. Let's create a data-driven future together! 🌐
